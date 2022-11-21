@@ -1,3 +1,6 @@
+//---------------------------------------
+//wartość_przeładowania w 3.1 i 3.2
+//---------------------------------------
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include <util/delay.h>
