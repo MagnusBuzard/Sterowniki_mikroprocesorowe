@@ -34,4 +34,5 @@ int main (void)
 //reloadValue = 2^ (liczba bitów timera) - (fclk)/(N*f)
 //fclk 16*10^6
 //liczba bitów timera najczęściej 16 (brać 16 i chuj)
+//𝑁 = 1, 8, 64, 256, 1024
 //----------------------------------------------------------
