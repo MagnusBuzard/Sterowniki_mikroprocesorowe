@@ -3,10 +3,10 @@ Rybka lubi pływać pdk
 ## Lab - 1 GPIO
 1. [Program zapalający wbudowany na płytce Arduino LED po 1 s od startu programu(_delay_ms(ms) z biblioteki <util/delay.h>).](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_1.cpp)
 2. [Migający LED co 500 ms.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_2.cpp)
-3. [Zapalanie LED, jeżeli przycisk jest naciśnięty.]()
-4. [Zmiana stanu LED na przeciwny za każdym razem gdy przycisk zostanie naciśnięty.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_3.cpp)
-5. [Mruganie 4 LEDami, częstotliwość ich mrugania ustawiana za pomocą przycisku. 4 widoczne częstotliwości.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_4.cpp)
-6. [Liczanie naciśnięć przycisku na 4 LEDach.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_5.cpp)
+3. [Zapalanie LED, jeżeli przycisk jest naciśnięty.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_3.cpp)
+4. [Zmiana stanu LED na przeciwny za każdym razem gdy przycisk zostanie naciśnięty.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_4.cpp)
+5. [Mruganie 4 LEDami, częstotliwość ich mrugania ustawiana za pomocą przycisku. 4 widoczne częstotliwości.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_5.cpp)
+6. [Liczanie naciśnięć przycisku na 4 LEDach.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_6.cpp)
 
 ## Lab 2 - INT EXTI (przerwania)
 1. [Program, który jednym przyciskiem włącza LED, a drugim wyłącza. Reakcja ma nastąpić po puszczeniu przycisku.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab2/2.1.cpp)
