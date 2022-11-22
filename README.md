@@ -1,5 +1,8 @@
 # Sterowniki_miktoprocesorowe
 Rybka lubi pływać pdk
+
+# [Egzamin](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/tree/main/egzamin)
+
 ## Lab - 1 GPIO
 1. [Program zapalający wbudowany na płytce Arduino LED po 1 s od startu programu(_delay_ms(ms) z biblioteki <util/delay.h>).](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_1.cpp)
 2. [Migający LED co 500 ms.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab1/1_2.cpp)
