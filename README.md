@@ -29,4 +29,4 @@
 ## Lab 5 - ADC i LCD
 1. [Program wyświetlający na ekranie swoje Imię i Nazwisko, dzisiejszą datę i godzinę zajęć.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab5/5_1.cpp)
 2. [Program, który będzie wyświetlał na LCD wartość odczytaną z wejścia przetwornika ADC do którego podłączone są przyciski wyświetlacza oraz wartość przeliczoną na miliwolty.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab5/5_2.cpp)
-3. [(NIE DZIAŁA I ELO XD) Napisać program, który będzie wyświetlał na LCD w pierwszej linii napięcie w miliwoltach na wejściu przetwornika ADC, a w drugiej nazwę aktualnie przyciśniętego przycisku. Dodatkowo przycisk UP powinien zapalać podświetlenie a DOWN gasić.](https://github.com/MagnusBuzard/Sterowniki_mikroprocesorowe/blob/main/programy/lab5/5_3.cpp)
+
